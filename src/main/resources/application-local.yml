@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: peng-ai-agent
+  ai:
+    dashscope:
+      agent:
+        app-id: qwen3-max
+      api-key: sk-02904c1836634ed196453e0c61676281
+
+
+
